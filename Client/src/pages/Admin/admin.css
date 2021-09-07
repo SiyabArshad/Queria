@@ -1,0 +1,13 @@
+.mainadmin{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.sdb{
+    width: 30%;
+}
+.widg{
+    margin: 3%;
+    display: flex;
+    flex-wrap: wrap;
+}

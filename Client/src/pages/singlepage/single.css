@@ -1,0 +1,35 @@
+.mainsingle{
+    width: 100%;
+    overflow: hidden;
+}
+.title{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.imgcont{
+    width: 80%;
+    height: 40vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.imgcont img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.desc{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.back{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

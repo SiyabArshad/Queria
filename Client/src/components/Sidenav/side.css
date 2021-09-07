@@ -1,0 +1,26 @@
+.sidebarmain{
+    overflow: hidden;
+}
+h2{
+    margin: 3% 10% 3% 10%;
+    font-size: 2rem;
+}
+.icon{
+    margin: 3% 10% 3% 10%;
+    cursor: pointer;
+}
+.icon span{
+    margin-left: 5%;
+    font-size: 1.2rem;
+    color: rgba(26, 13, 13, 0.568);
+}
+.csi{
+    font-size: 2rem;
+}
+h3{
+    color: rgba(26, 13, 13, 0.568);
+}
+.btns{
+    margin: 3% 10% 3% 10%;
+    cursor: pointer;
+}
